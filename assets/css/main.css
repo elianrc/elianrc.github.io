@@ -1,11 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
 
-/*
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -99,7 +94,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #1e252d;
+		background-color: #0a192fff;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -144,7 +139,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #212931;
+		color: #0a192fff;
 	}
 
 	body, input, select, textarea {
@@ -3233,8 +3228,8 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
+			background-color: #0a192fff;
+			/* background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg"); */
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -3284,7 +3279,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		color: #ffffff;
+		color: #a8b2d1ff;
 		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3615,7 +3610,7 @@ input, select, textarea {
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: rgba(255, 255, 255, 0.175);
+		background: #233554ff;
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
